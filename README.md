@@ -1,1 +1,1 @@
-# cviceni-vicestrankovy-web
+# Czechitas assignment - multipage website 
